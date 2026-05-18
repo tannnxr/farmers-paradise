@@ -1,4 +1,4 @@
-package tanner.farmersparadise.mixin;
+package tanner.farmersbounty.mixin;
 
 import net.minecraft.server.MinecraftServer;
 import org.spongepowered.asm.mixin.Mixin;

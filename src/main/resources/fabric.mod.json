@@ -23,7 +23,7 @@
 		]
 	},
 	"mixins": [
-		"farmersparadise.mixins.json"
+      "farmersbounty.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.19.2",

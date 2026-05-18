@@ -1,14 +1,14 @@
-package tanner.farmersparadise;
+package tanner.farmersbounty;
 
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import tanner.farmersparadise.block.BlockRegister;
-import tanner.farmersparadise.item.ItemRegister;
+import tanner.farmersbounty.block.BlockRegister;
+import tanner.farmersbounty.item.ItemRegister;
 
 public class FarmersParadise implements ModInitializer {
-	public static final String MOD_ID = "farmersparadise";
+	public static final String MOD_ID = "farmersbounty";
 
 	// This logger is used to write text to the console and the log file.
 	// It is considered best practice to use your mod id as the logger's name.

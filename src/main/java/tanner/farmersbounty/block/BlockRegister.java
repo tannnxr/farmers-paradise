@@ -1,4 +1,4 @@
-package tanner.farmersparadise.block;
+package tanner.farmersbounty.block;
 
 import java.util.function.Function;
 
@@ -16,7 +16,7 @@ import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.Blocks;
 import net.minecraft.world.level.block.state.BlockBehaviour;
-import tanner.farmersparadise.FarmersParadise;
+import tanner.farmersbounty.FarmersParadise;
 
 public final class BlockRegister {
 	public static final ResourceKey<CreativeModeTab> FARMERS_PARADISE_BLOCKS_TAB_KEY = ResourceKey.create(

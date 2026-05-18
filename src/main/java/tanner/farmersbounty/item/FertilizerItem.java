@@ -1,4 +1,4 @@
-package tanner.farmersparadise.item;
+package tanner.farmersbounty.item;
 
 import net.minecraft.core.BlockPos;
 import net.minecraft.sounds.SoundEvents;
@@ -12,7 +12,7 @@ import net.minecraft.world.level.Level;
 import net.minecraft.world.level.block.Blocks;
 import net.minecraft.world.level.block.FarmlandBlock;
 import net.minecraft.world.level.block.state.BlockState;
-import tanner.farmersparadise.block.BlockRegister;
+import tanner.farmersbounty.block.BlockRegister;
 
 public class FertilizerItem extends Item {
 	public FertilizerItem(Properties properties) {

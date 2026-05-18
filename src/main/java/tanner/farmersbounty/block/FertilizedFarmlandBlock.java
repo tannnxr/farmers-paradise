@@ -1,4 +1,4 @@
-package tanner.farmersparadise.block;
+package tanner.farmersbounty.block;
 
 import net.minecraft.world.level.block.FarmlandBlock;
 import net.minecraft.world.level.block.state.BlockBehaviour;

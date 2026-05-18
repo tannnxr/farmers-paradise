@@ -1,4 +1,4 @@
-package tanner.farmersparadise.item;
+package tanner.farmersbounty.item;
 
 import net.fabricmc.fabric.api.creativetab.v1.FabricCreativeModeTab;
 import net.minecraft.core.Registry;
@@ -10,8 +10,8 @@ import net.minecraft.resources.ResourceKey;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.ItemStack;
-import tanner.farmersparadise.FarmersParadise;
-import tanner.farmersparadise.block.BlockRegister;
+import tanner.farmersbounty.FarmersParadise;
+import tanner.farmersbounty.block.BlockRegister;
 
 public final class ItemRegister {
 	public static final ResourceKey<CreativeModeTab> FARMERS_PARADISE_SEEDS_TAB_KEY = ResourceKey.create(
