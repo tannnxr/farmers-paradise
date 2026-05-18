@@ -16,8 +16,6 @@
 <details>
 <summary>Expand to read more about Amaranth</summary>
 
-### Amaranth
-
 | Crop Preview | Growth Stages | Harvested Item |
 |---|---|---|
 | _Image coming soon_ | _Image coming soon_ | _Image coming soon_ |
@@ -40,3 +38,107 @@
 | Primary Yield | Amaranth |
 | Related Items | Seeds, harvested crop item |
 | Status | In development |
+
+</details>
+
+## Planned Crops
+
+- Barley
+- Oats
+- Rye
+- Sorghum
+- Millet
+- Quinoa
+- Buckwheat
+- Spelt
+- Teff
+- Flax
+- Sesame
+- Sunflower
+- Canola
+- Mustard
+- Soybean
+- Chickpea
+- Lentil
+- Pea
+- Black Bean
+- Pinto Bean
+- Kidney Bean
+- Lima Bean
+- Fava Bean
+- Mung Bean
+- Adzuki Bean
+- Peanut
+- Sweet Corn
+- Rice
+- Wild Rice
+- Potato
+- Sweet Potato
+- Yam
+- Cassava
+- Taro
+- Turnip
+- Rutabaga
+- Parsnip
+- Beetroot
+- Radish
+- Daikon
+- Carrot
+- Onion
+- Garlic
+- Leek
+- Shallot
+- Scallion
+- Celery
+- Lettuce
+- Spinach
+- Kale
+- Cabbage
+- Red Cabbage
+- Bok Choy
+- Swiss Chard
+- Arugula
+- Collard Greens
+- Watercress
+- Broccoli
+- Cauliflower
+- Brussels Sprouts
+- Asparagus
+- Artichoke
+- Cucumber
+- Zucchini
+- Squash
+- Pumpkin
+- Butternut Squash
+- Eggplant
+- Tomato
+- Cherry Tomato
+- Bell Pepper
+- Chili Pepper
+- Jalapeño
+- Habanero
+- Okra
+- Green Bean
+- Sugar Snap Pea
+- Melon
+- Watermelon
+- Cantaloupe
+- Strawberry
+- Blueberry
+- Raspberry
+- Blackberry
+- Cranberry
+- Grape
+- Pineapple
+- Banana
+- Plantain
+- Apple
+- Pear
+- Peach
+- Plum
+- Cherry
+- Apricot
+- Fig
+- Pomegranate
+- Olive
+- Coffee
