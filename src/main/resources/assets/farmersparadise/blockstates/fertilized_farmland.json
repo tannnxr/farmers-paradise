@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "moisture=0": {
+      "model": "farmersparadise:block/fertilized_farmland"
+    },
+    "moisture=1": {
+      "model": "farmersparadise:block/fertilized_farmland_moist"
+    },
+    "moisture=2": {
+      "model": "farmersparadise:block/fertilized_farmland_moist"
+    },
+    "moisture=3": {
+      "model": "farmersparadise:block/fertilized_farmland_moist"
+    },
+    "moisture=4": {
+      "model": "farmersparadise:block/fertilized_farmland_moist"
+    },
+    "moisture=5": {
+      "model": "farmersparadise:block/fertilized_farmland_moist"
+    },
+    "moisture=6": {
+      "model": "farmersparadise:block/fertilized_farmland_moist"
+    },
+    "moisture=7": {
+      "model": "farmersparadise:block/fertilized_farmland_moist"
+    }
+  }
+}

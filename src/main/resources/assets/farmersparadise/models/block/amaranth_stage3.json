@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "farmersparadise:block/amaranth/amaranth_stage3"
+  }
+}
